@@ -1,4 +1,4 @@
-# DO-Product-Card
+# LPB-FH-Product-Card
 
 Este es un paquete de pruebas de despligeue en NPM
 
